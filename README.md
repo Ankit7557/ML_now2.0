@@ -14,13 +14,13 @@
 ### Setup & Installation
 
 ```
-$ git clone https://github.com/shivanishimpi/MLnow_2.0.git
+$ git clone https://github.com/Ankit7557/MLnow_2.0.git
 $ cd MLnow_2.0
 ```
 
 ### To Contribute
 
-- Please [create a pull request](https://github.com/shivanishimpi/MLnow_2.0/pulls) so the main code is still up and running
+- Please [create a pull request](https://github.com/Ankit7557/MLnow_2.0/pulls) so the main code is still up and running
 
 ```
 $ git add .
