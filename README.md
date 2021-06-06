@@ -1,5 +1,5 @@
 # ML_now2.0
-## ML.now() 2.0
+
 
 > 👩🏻‍💻  This repository is a code archive for the `ML.now()` course codes [Version 2.0] created by [Ankit Prajapati](https://github.com/Ankit7557)
 
