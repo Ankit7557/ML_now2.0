@@ -30,7 +30,7 @@ $ git push -u origin <branch-name>
 ```
 ### Reach out
 
-[@shivanishimpi:](https://github.com/shivanishimpi)
+[@ankitprajapati:](https://github.com/Ankit7557)
 
 [![LinkedIn][2.2]][2]
 
