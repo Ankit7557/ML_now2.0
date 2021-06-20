@@ -40,4 +40,4 @@ $ git push -u origin <branch-name>
 
 [2]: https://www.linkedin.com/in/ankit-prajapati-899a66184/
 
-email: [ankitramprajapati.7@gmail.com]
+email me at : ankitramprajapati.7@gmail.com
